@@ -63,7 +63,7 @@ scikit-learn==0.23.2
 scipy==1.5.4
 seaborn==0.11.0
 Send2Trash==1.5.0
-sip==4.19.13
+
 six 
 terminado==0.9.1
 testpath==0.4.4
