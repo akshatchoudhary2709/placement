@@ -49,7 +49,7 @@ Pillow==8.0.1
 prometheus-client==0.8.0
 prompt-toolkit 
 pycparser 
-Pygments k
+Pygments 
 pyparsing==2.4.7
 pyrsistent 
 python-dateutil==2.8.1
