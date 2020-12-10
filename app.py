@@ -75,7 +75,7 @@ def predict():
         output =prediction[:,1]*100
         output=round(output[0],2)
 
-        return render_template('home.html',prediction_text="The chances of placement is {} %".format(output))
+        return render_template('home.html',prediction_text="{} ".format(output))
 
 
 
